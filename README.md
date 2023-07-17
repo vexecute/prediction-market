@@ -1,4 +1,4 @@
-# prediction-market
+# Prediction Market
 Created UI for different markets using typecript and reactjs for our hackathon project.
 
 ### About
